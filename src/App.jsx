@@ -1,7 +1,9 @@
+import Header from "./Header";
+
 export default function App() {
   return (
     <>
-      <p>Welcome To Tasker</p>
+      <Header />
     </>
   );
 }
